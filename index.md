@@ -11,7 +11,7 @@ layout: default
 <section class="section summary-section">
 <h2 class="section-title"><i class="fa fa-rocket"></i>Mission</h2>
 <div class="summary">
-<b>Helping public service organizations to do their jobs better.</b> 
+<b>Helping public service organizations do their jobs better.</b> 
 </div><!--//summary-->
 </section><!--//section-->
 
